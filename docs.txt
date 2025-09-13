@@ -2,19 +2,4 @@ Hello
 This
 Is 
 Branch
-<<<<<<< HEAD
-A!!!
-<<<<<<< HEAD
-WOW!!!
-Is
-Branch
-B!!
-=======
-WOW!!!
->>>>>>> parent of f828f6b (wrote into docs.txt file again)
-=======
-AAA
-WOW!!!
 
-sss
->>>>>>> 01db5c84f255d4f16f41ebeab79ed2283ffb51ae
