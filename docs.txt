@@ -3,7 +3,11 @@ This
 Is 
 Branch
 A!!!
+<<<<<<< HEAD
 WOW!!!
 Is
 Branch
 B!!
+=======
+WOW!!!
+>>>>>>> parent of f828f6b (wrote into docs.txt file again)
