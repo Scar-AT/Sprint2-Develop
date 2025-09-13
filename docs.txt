@@ -1,12 +1,9 @@
 Hello
 This
-<<<<<<< HEAD
 Is 
 Branch
 A!!!
 WOW!!!
-=======
 Is
 Branch
 B!!
->>>>>>> branchB
